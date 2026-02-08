@@ -1,4 +1,4 @@
-🌍 #Global Climate & Environmental Trends Dashboard
+🌍 ## Global Climate & Environmental Trends Dashboard
 
 📊 Project Overview
 
