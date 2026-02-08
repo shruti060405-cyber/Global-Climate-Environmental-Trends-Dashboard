@@ -1,4 +1,5 @@
-#🌍 Global Climate & Environmental Trends Dashboard
+🌍 #Global Climate & Environmental Trends Dashboard
+
 📊 Project Overview
 
 This project analyzes global environmental patterns using Power BI. It focuses on temperature changes, CO₂ emissions growth, and disaster risk trends to support data-driven environmental decision making.
