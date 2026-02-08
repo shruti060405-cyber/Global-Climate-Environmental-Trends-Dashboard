@@ -37,6 +37,11 @@ This dashboard provides an interactive analytical solution.
 - Analyzed environmental risk growth trends
 - Established correlation between emissions and temperature rise
 
+Screenshots- 
+![![POWER BI PROJECT SS 1](https://github.com/user-attachments/assets/1b65a853-dee6-4cd9-9ef0-1633cf1b0a50)]
+![![POWER BI PROJECT SS 2](https://github.com/user-attachments/assets/71fbf03a-b79f-431d-8981-6f0d76d2d3cc)]
+![![POWER BI PROJECT SS 3](https://github.com/user-attachments/assets/5f9e7671-2f89-4429-b985-9d9ece0e3b07)]
+
 🚀 Project Learnings
 
 - Data modelling across multiple datasets
